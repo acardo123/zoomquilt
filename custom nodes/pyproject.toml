@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-pathutil"
+description = "Nodes for various path utilities"
+version = "1.0.0"
+license = {file = "None"}
+dependencies = ["",] 
+
+[tool.comfy]
+PublisherId = "adamcardo"
+DisplayName = "ComfyUI-IndexedPath"
+Icon = ""
